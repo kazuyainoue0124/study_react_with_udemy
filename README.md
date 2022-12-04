@@ -1,1 +1,3 @@
-# study_react_with_udemy
+# Udemyの以下の講座を題材にGraphQLについて学習しました!
+[【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座
+](https://www.udemy.com/course/react-3project-app-udemy/)
